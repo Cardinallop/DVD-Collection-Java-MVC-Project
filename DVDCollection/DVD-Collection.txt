@@ -1,0 +1,4 @@
+Jurassic Park::20 years ago::879::Steven Spielberg::Warner Bros::Very good::
+Harry Potter::12 years ago::433::Maichael::Hollywood::Pretty Good::
+Titanic::10 years ago::999::Steven Spielberg::Universal Pictures::Nod bad!::
+Jumanji::5 years ago::989::Ray::Vortuemde::poor::
